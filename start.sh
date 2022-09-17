@@ -26,7 +26,7 @@ do
 	echo "=================================================="
 	echo "|      LU Decomposition using pThread/OpenMP     |"
 	echo "=================================================="
-	echo -e "||          Avinash Gaikwad                      ||"
+	echo -e "||               Avinash  Gaikwad               ||"
 	echo "--------------------------------------------------"
 	echo -ne "\n1. pThread implementation\n2. OpenMP implementation\n3. Sequential Implementation\n4. pThread vs. OpenMP(number of threads vs execution time)\n5. pThread vs. OpenMP vs. Sequential\n6. Verify LU Decomposition\n7. Show graphs for pThread vs. OpenMP\n8. Speed up of OpenMP and pThread\n9. Exit\n"
 	read -p "Enter your choice " choice
