@@ -24,16 +24,16 @@ Below are the libraries/tools required in order to run the program
 
 <a name="screenshots"></a>
 ## Screenshots
-Menu page
+### Menu page
 ![Main](./images/main.png)
 
-pThread implementation
+### pThread implementation
 ![ss1](./images/execution1.png)
 
-LU decomposition verification
+### LU decomposition verification
 ![ss2](./images/execution2.png)
 
-Graphical outputs
+### Graphical outputs
 </br>
 ![ss3](./images/size_vs_time.png)
 ![ss4](./images/size_vs_time_speedup.png)
