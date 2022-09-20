@@ -17,11 +17,11 @@ Below are the libraries/tools required in order to run the program
 
 <a name="usage"></a>
 ## Usage
-***
-* make clean (For cleaning the project files such as object files, output files etc.
-* make all (For compiling the program(s) and creating their respective executables.)
-* ./start.sh (For executing the main program)
-
+```
+$ make clean (For cleaning the project files such as object files, output files etc.
+$ make all (For compiling the program(s) and creating their respective executables.)
+$ ./start.sh (For executing the main program)
+```
 <a name="screenshots"></a>
 ## Screenshots
 ### Menu page
