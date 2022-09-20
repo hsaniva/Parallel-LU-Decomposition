@@ -34,6 +34,7 @@ LU decomposition verification
 ![ss2](./images/execution2.png)
 
 Graphical outputs
+</br>
 ![ss3](./images/size_vs_time.png)
 ![ss4](./images/size_vs_time_speedup.png)
 ![ss5](./images/speedup.png)
